@@ -1,0 +1,29 @@
+body{
+    background-color:rgb(211, 243, 164);
+    color:rgb(20, 48, 1);
+    font-family: 'Times New Roman', Times, serif;
+}
+nav{
+    padding: 10px;
+}
+nav ul{
+    list-style-type: square;
+}
+nav ul i{
+    display:block;
+}
+nav ul li a{
+    text-decoration:overline;
+}
+main{
+    padding: 10px;
+}
+h1,h2{
+color:rgb(30, 146, 64);
+}
+footer{
+    color: rgb(70, 117, 23);
+}
+img{
+    width: 50%;
+}

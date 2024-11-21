@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(211, 243, 164);
+    color:rgb(20, 48, 1);
+    font-family: 'Times New Roman', Times, serif;
+}
+nav{
+    padding: 7px;
+}
+nav ul{
+    list-style-type: square;
+}
+
+main{
+    padding: 10px;
+}
+h1,h2{
+color:rgb(11, 219, 73);
+}
+footer{
+    color: rgb(16, 31, 2);
+}
